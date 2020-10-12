@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activewindow="0">
+  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffffab0000000d000000d606000004040000</PLACEMENT>
+  <WINDOW type="default" module="ISIS"/>
+  <WINDOW type="VIEW3D" module="VIEW3D">
+   <camera>
+    <position x="-6270000" y="6270344" z="4769655"/>
+    <focus x="-6270000" y="11040000" z="0"/>
+    <up x="0" y="707106" z="707106"/>
+   </camera>
+  </WINDOW>
+  <WINDOW type="default" module="ARES"/>
+ </FRAME>
+ <MODULE name="VSMDEBUG">
+  <PWI/>
+ </MODULE>
+</WORKSPACE>
